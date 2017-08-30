@@ -18,7 +18,7 @@
 #
 import os
 import sys
-sys.path.insert(0, u'/Users/lindy/Dropbox/github/saotesting')
+sys.path.insert(0, u'..')
 
 
 # -- General configuration ------------------------------------------------
